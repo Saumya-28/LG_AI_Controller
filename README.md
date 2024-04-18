@@ -1,16 +1,16 @@
-# lg_ai_controller
+# LG_AI_Controller
 
-A new Flutter project.
+<h2>Introduction:</h2>
+This is a user-friendly application that helps you find places on the LG Rigs with text queries and visual markers. It also displays detailed responses of the Gemini API with the help of  KML on the LG Rigs. With voice features, Galaxy Glider can speak responses and understand voice commands. Plus, easy-access buttons on the left of the main screen let you relaunch LG, shut down LG, clean KML, and disable voice. 
 
-## Getting Started
+<h2>Key Features:</h2>
 
-This project is a starting point for a Flutter application.
+<h4>Text-Based Queries with Visual Markers:</h4> Users can input text queries to locate places on the LG Rig, which are then displayed using visual markers for easy identification.
 
-A few resources to get you started if this is your first Flutter project:
+<h4>KML Balloons for Detailed Responses:</h4> Detailed responses to queries are provided via KML balloons, enhancing clarity and comprehension.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h4>Voice Interaction with Galaxy Glider:</h4> The system offers voice interaction capabilities through Galaxy Glider, allowing users to receive responses in voice format and also accepts commands via voice.
+
+
+<h4>Convenient Button Functionality:</h4> The interface includes easy-access buttons for relaunch LG, shut down LG, clean KML, and disable voice, streamlining user interactions and device control.

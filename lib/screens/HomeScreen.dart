@@ -27,7 +27,7 @@ class HomeScreen extends ConsumerStatefulWidget {
 }
 
 class _HomeScreenState extends ConsumerState<HomeScreen> {
-  static const apikey = 'AIzaSyD_DXVZclhJJMJu3x_PqH7dk8AUbEu4dY0';
+  static const apikey = '';//TODO:Put your own Gemini Api Key
 
   @override
   void initState() {
